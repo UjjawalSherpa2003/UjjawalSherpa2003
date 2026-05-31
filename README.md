@@ -1,28 +1,20 @@
-# 💫 About Me:
 Hey, I'm Ujjawal Sherpa
 
-I build cloud infrastructure that doesn't break at 3 AM.
+I build cloud infrastructure that are build to Last.
 
-I'm a DevOps Engineer who thrives on automation, chaos engineering, and zero-downtime deployments. If it can be automated, it's already a script. If it can't, it's got a Grafana dashboard watching it.
+I'm a DevOps Engineer who thrives on automation, chaos engineering, and zero-downtime deployments. 
 
 From managing 600+ servers to scaling K8s clusters for 5,000+ concurrent users, I make sure production stays up while development moves fast.
 
 **The Stack I Abuse Daily**
 
-- ☁️ **Cloud:** AWS (EC2, ECS Fargate, EKS, RDS, S3, VPC, IAM, Route 53) & Yandex Cloud
-- 🐳 **Containers & Orchestration:** Docker, Kubernetes, ArgoCD (Pure GitOps)
-- ⚙️ **CI/CD:** GitHub Actions + SonarQube (Quality gates or bust)
-- 📊 **Observability:** Prometheus, Grafana, Zabbix, StatusCake, Uptime Kuma
-- 🗄️ **Databases:** PostgreSQL, MySQL, Redis
-- 🤖 **Automation:** Python, Bash, n8n
-- 🔒 **Security:** Linux Hardening, IAM, Cloudflare DNS, SSH, Firewalls
-
-**Latest Battle Scars**
-
-- Cut client incident response times by **40%** by automating a 600+ server monitoring pipeline — saving 5+ hours/week
-- Architected Kubernetes clusters on Yandex Cloud supporting **5,000+ concurrent users** with zero-downtime deployments
-- Locked down CI/CD pipelines with rigid **95% code-quality gates** — because breaking production isn't on my calendar
-- Built and maintain a self-hosted private cloud running live at [primehenchman.org](https://primehenchman.org)
+-  **Cloud:** AWS (EC2, ECS Fargate, EKS, RDS, S3, VPC, IAM, Route 53) & Yandex Cloud
+-  **Containers & Orchestration:** Docker, Kubernetes, ArgoCD (Pure GitOps)
+-  **CI/CD:** GitHub Actions + SonarQube (Quality gates or bust)
+-  **Observability:** Prometheus, Grafana, Zabbix, StatusCake, Uptime Kuma
+-  **Databases:** PostgreSQL, MySQL, Redis
+-  **Automation:** Python, Bash, n8n
+-  **Security:** Linux Hardening, IAM, Cloudflare DNS, SSH, Firewalls
 
 **Let's Build Something Massive**
 
